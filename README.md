@@ -1,2 +1,4 @@
 # ScientificCalculator
-this is a calculator i designed with a little bit of simple scientific functions using javaFx to test, go to dist and open the jar file... and ensure you have jdk installed first
+A javaFX calculator with simple scientific functions.
+To test, go to dist and open the jar file... 
+Ensure you have jre installed
